@@ -12,4 +12,5 @@ public interface IUserContants {
 	public static String COLUMN_PHONE = "phone";
 	public static String COLUMN_MAILID = "mailid";
 	public static String COLUMN_USERTYPE = "usertype";
+	public static string column_USERPASSWORD="password";
 }
